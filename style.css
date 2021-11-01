@@ -1,0 +1,81 @@
+/* ESTILO DA PAGINA*/
+
+
+p{
+	color: whitesmoke;
+	font-size: 15px;
+	font-family: Monospace;
+	text-shadow: 1px 1px 1px #111111;
+
+}
+body{
+	background-color: black;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	height: 80px;
+	font-size: 50PX;
+	font-family: Monospace;
+	padding: 10px;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+
+
+
+
+header{
+	background-color: #008080;
+	height: 85px;
+	font-size: 70px;
+	font-family: Fantasy;
+	padding: 5px;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+#unica{
+	background-image: url('uai.png');
+	min-height: 500px;
+	background-size: 100%;
+	
+}
+
+
+
+footer{
+	clear: both;
+	background-color: #008080;
+	height: 15px;
+	text-align: center;
+	color: black;
+	padding: 7px;
+
+}
+
+.container{
+	width: 900px;
+	margin: 0 auto;
+}
+
+h4{
+	color: white;
+	font-size: 35px ;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+.efeito{
+	background-color: rgba(0, 0, 0, 0.8);
+
+}
+
+body img {
+	width: 200px;
+	height: 130px;
+
+}
+
